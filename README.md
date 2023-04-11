@@ -1,15 +1,15 @@
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+
 
   <br/>
 
-  <h3><b>To Do List</b></h3>
+  <h3><b>leaderBoard App</b></h3>
 
 </div>
 
-# To Do List
+# LeaderBoard app
 
-<!-- TABLE OF CONTENTS -->
+
 
 # 📗 Table of Contents
 
@@ -32,11 +32,11 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
+
 
 # 📖 to do list <a name="about-project"></a>
 
-**to do list** 
+**leaderboard is an app that uses async and promises to get Api data** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -58,7 +58,7 @@
   </ul>
 </details>
 
-<!-- Features -->
+
 
 ### Key Features <a name="key-features"></a>
 
@@ -68,7 +68,7 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -124,9 +124,8 @@ or click on the following link: https://neon-salamander-e52eca.netlify.app/
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[interactive functions]**
-- [ ] **[Footer]**
-- [ ] **[Profile picture]**
+- [ ] **[async functions]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,7 +138,7 @@ Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- SUPPORT -->
+
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -147,7 +146,7 @@ If you get inspired by this project you can give me a star 🙌
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- ACKNOWLEDGEMENTS -->
+
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -155,7 +154,7 @@ I would like to thank Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
+
 
 ## 📝 License <a name="license"></a>
 
