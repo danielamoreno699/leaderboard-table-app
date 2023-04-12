@@ -13,3 +13,7 @@ h1 {
 .ml8 {
   margin-left: 8%;
 }
+
+.submit-success {
+  display: none;
+}
