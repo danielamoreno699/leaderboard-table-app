@@ -1,7 +1,7 @@
 const url = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/Games';
 const id = '6D2CdavEe76X4dcCFdkm';
 
-// async functions for getting-data
+// async functions for getting-data aplying the GET method
 const getData = async (id) => {
   try {
     const res = await fetch(`${url}/${id}/scores/`, {
@@ -16,7 +16,7 @@ const getData = async (id) => {
   }
 };
 
-// message that displays success alert
+// message that displays success alert when values are added successfully
 const message = () => {
   const submitSuccess = document.getElementById('submit-success');
   submitSuccess.style.display = 'block';
@@ -25,7 +25,7 @@ const message = () => {
   }, 2000);
 };
 
-// async functions for posting-data
+// async function for posting-data
 const postData = async (dataInfo) => {
   try {
     const res = await fetch(`${url}/${id}/scores/`, {

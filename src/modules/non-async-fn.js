@@ -28,7 +28,7 @@ const displayData = async () => {
 
 displayData();
 
-// add score function
+// add score function with submit btn
 const add = () => {
   const usernameInput = document.getElementById('username');
   const scoreInput = document.getElementById('score');
