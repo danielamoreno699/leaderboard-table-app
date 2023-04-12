@@ -1,5 +1,6 @@
 import { getData, postData, id } from './async-fn.js';
 
+// displayData function
 const displayData = async () => {
   try {
     const data = await getData(id);
@@ -27,7 +28,7 @@ const displayData = async () => {
 
 displayData();
 
-// add Input
+// add score function
 const add = () => {
   const usernameInput = document.getElementById('username');
   const scoreInput = document.getElementById('score');
