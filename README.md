@@ -36,7 +36,7 @@
 
 # 📖 to do list <a name="about-project"></a>
 
-**leaderboard is an app that uses async and promises to get Api data** 
+**leaderboard is an app that uses callback functions to get data from the API. It uses Async and await to retrieve data. Here I implemented the POST and GET method** 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -121,13 +121,6 @@ or click on the following link: https://neon-salamander-e52eca.netlify.app/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **[async functions]**
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🤝 Contributing <a name="contributing"></a>
