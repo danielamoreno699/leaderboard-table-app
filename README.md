@@ -86,6 +86,7 @@ https
 cd my-folder
 
 
+
 ### Install
 
 Install this project with:
@@ -106,7 +107,7 @@ N/A
 
 You can deploy this project using: webpack
 
-or click on the following link: 
+or click on the following link: https://marvelous-brigadeiros-51592b.netlify.app/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
