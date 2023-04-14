@@ -1,5 +1,5 @@
-const url = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/Games';
-const id = '6D2CdavEe76X4dcCFdkm';
+const url = 'https://us-central1-js-capstone-backend.cloudfunctions.net/api/games';
+const id = 'xdmogdKMFLxWw9Nqt7j0';
 
 // async functions for getting-data aplying the GET method
 const getData = async (id) => {

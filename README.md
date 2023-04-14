@@ -106,7 +106,7 @@ N/A
 
 You can deploy this project using: webpack
 
-or click on the following link: https://superlative-bonbon-b1de69.netlify.app/
+or click on the following link: 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
